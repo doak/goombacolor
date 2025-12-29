@@ -27,7 +27,7 @@ g_sgb_mask:	.byte 0	@sgb_mask
 g_update_border_palette:
 	.byte 0   @update_border_palette
 auto_border:
-	.byte 1	@autoborder
+	.byte 0	@autoborder
 _autoborderstate:
 	.byte 0	@autoborderstate
 	.byte 0	@borderpartsadded
