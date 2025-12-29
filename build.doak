@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+DEVKITARM=/opt/devkitpro/devkitARM DEVKITPRO=/opt/devkitpro make "$@"
